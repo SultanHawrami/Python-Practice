@@ -1,15 +1,21 @@
 # Python Practice
 
-This repository contains small Python programs I write while learning programming.
+This repository contains small Python programs I build while learning Python.
 
-## Programs
+## Projects
 - Mad Libs Game
 - Lucky Number Generator
-- Social Checker (if/else practice)
+- Social Checker
 
 ## Goal
-Practice Python fundamentals like:
+Practice Python fundamentals such as:
 - variables
 - input/output
-- if statements
+- conditionals
 - simple logic
+
+## How to Run
+Make sure Python is installed, then run:
+
+```bash
+python filename.py
